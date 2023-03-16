@@ -7,6 +7,8 @@ i use tic tac toe game code written in python for this assignment
 <br>
 tool i used : Mypy
 <br>
+Mypy is already installed in my PC
+<br>
 
 ### PYTHON CODE
 ```sh
